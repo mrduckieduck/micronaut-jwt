@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: com.mrpato.examples
+---
+testFramework: junit
+sourceLanguage: java
