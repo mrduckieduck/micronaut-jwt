@@ -1,5 +1,5 @@
 profile: service
-defaultPackage: com.mrpato.examples
+defaultPackage: com.mrpato.examples.micronaut.jwt
 ---
-testFramework: junit
+testFramework: spock
 sourceLanguage: java
